@@ -15,4 +15,3 @@ node_modules
 # Package lock files (optional, can be included if needed for reproducibility)
 package-lock.json
 .vscode
-/dist
