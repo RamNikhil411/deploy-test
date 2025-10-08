@@ -1,0 +1,17 @@
+# Node.js dependencies
+node_modules
+# Vercel and Netlify build outputs
+.vercel
+.netlify
+.nitro
+# Wrangler (Cloudflare workers) output
+.wrangler
+# Build directories (depending on the build tool you are using)
+.output
+.vinxi
+.tanstack
+# Environment variables (do not commit sensitive data)
+.env
+# Package lock files (optional, can be included if needed for reproducibility)
+package-lock.json
+.vscode
