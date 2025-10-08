@@ -7,7 +7,7 @@ import {
   HeadContent,
   Scripts,
 } from "@tanstack/react-router";
-import type { ReactNode } from "react";
+import { type ReactNode } from "react";
 import appCss from "@/styles/app.css?url";
 import CreateFormContext from "@/context/formContext";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
